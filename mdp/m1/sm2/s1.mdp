@@ -1,0 +1,8 @@
+@@name=Schritt 1
+
+### TESTCASE 1_2: generic program scope
+
+#### Eingabelemente, Speicherung im generischen program-scope
+
+@textarea-group[id="myId1" rows="5" scope="program"]
+    textarea mit id="myId1", scope="program", keine scope-id (generisch)

@@ -1,0 +1,13 @@
+@@name=Schritt 2
+
+### 1_3 Schritt 2
+
+#### Eingabelement, Speicherung im program-scope "scope-1"
+
+Wiedergabe und Ergänzung der im vorigen Schritt getätigten Eingaben
+
+@textarea-group[id="test_scope_1_element1" scope="program" scope-id="scope-1"]
+    textarea mit id="test_scope_1_element1", scope="program", scope-id="scope-1"
+
+@textarea-group[id="test_scope_1_element2" scope="program" scope-id="scope-1"]
+    textarea mit id="test_scope_1_element2", scope="program", scope-id="scope-1"

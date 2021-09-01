@@ -1,0 +1,12 @@
+@@name=Schritt 3
+
+### 1_2 Schritt 3
+
+#### Eingabelemente, Speicherung im generischen program-scope
+
+@textarea-group[id="myId1" rows="5" scope="program" readonly="true"]
+    textarea mit id="myId1", scope="program", keine scope-id (generisch)    
+
+@textarea-group[id="myId2" rows="5" scope="program" readonly="true"]
+    textarea mit id="myId2", scope="program", keine scope-id (generisch)
+    

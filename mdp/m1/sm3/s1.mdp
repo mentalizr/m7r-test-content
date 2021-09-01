@@ -1,0 +1,11 @@
+@@name=Schritt 1
+
+#### TESTCASE 1_3: program scope "scope-1"
+
+Elemente werden auf der nächsten Seite beide wiedergegeben
+
+@textarea-group[id="test_scope_1_element1" scope="program" scope-id="scope-1"]
+    textarea mit id="test_scope_1_element1", scope="program", scope-id="scope-1"
+
+@textarea-group[id="test_scope_1_element2" scope="program" scope-id="scope-1"]
+    textarea mit id="test_scope_1_element2", scope="program", scope-id="scope-1"

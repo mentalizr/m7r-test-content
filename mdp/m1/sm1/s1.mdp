@@ -1,0 +1,21 @@
+@@name=Schritt 1
+
+### TESTCASE 1_1: page scope
+
+Test der Eingabefelder und Persistenzlogik
+
+#### Eingabeelemente, Speicherung im page-scope
+
+@radio-group[name="myRadioGroup" id="myRadioButton" "Situation" "Gedanken" "Gefühl"]
+    Drei Uhr am Nachmittag
+
+@radio-group[id="id1" name="myName" "Situation" "Gedanken" "Gefühl"]
+    * erster Punkt
+    * zweiter Punkt
+    * dritter Punkt
+
+@textarea-group[id="id2"]
+    Textarea im page scope, ID=id2
+
+@input-group[id="id3"]
+    Input im page scope, ID=id3

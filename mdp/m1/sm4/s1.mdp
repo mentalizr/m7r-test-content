@@ -1,0 +1,9 @@
+@@name=Schritt 1
+
+#### TESTCASE: 1_4: program-scope "scope-2", schrittweise Erweiterung
+
+Eingabe von einzelnen Elementen nacheinander. Erstes Element.
+
+@textarea-group[id="test_scope_2_element1" scope="program" scope-id="scope-2"]
+    textarea mit id="test_scope_2_element1", scope="program", scope-id="scope-2"
+

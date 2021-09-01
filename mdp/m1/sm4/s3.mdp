@@ -1,0 +1,13 @@
+@@name=Schritt 3
+
+### 1_4 Schritt 3
+
+#### Eingabelement, Speicherung im program-scope "scope-2"
+
+Eingabe von einzelnen Elementen nacheinander.
+
+@textarea-group[id="test_scope_2_element1" scope="program" scope-id="scope-2" readonly="true"]
+    textarea mit id="test_scope_2_element1", scope="program", scope-id="scope-2"
+
+@textarea-group[id="test_scope_2_element2" scope="program" scope-id="scope-2" readonly="true"]
+    textarea mit id="test_scope_2_element2", scope="program", scope-id="scope-2"
