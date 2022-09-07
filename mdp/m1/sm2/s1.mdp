@@ -6,3 +6,9 @@
 
 @textarea-group[id="myId1" rows="5" scope="program"]
     textarea mit id="myId1", scope="program", keine scope-id (generisch)
+
+@input-group[id="igGen1" inputtype="text" scope="program"]
+    input (Freitext) mit id="igGen1", scope="program", keine scope-id (generisch)
+
+@radio-group[id="rgGen1" scope="program" name="myRadioGroupGen1" "erster Knopf" "zweiter Knopf" "dritter Knopf"]
+    radio buttons mit id="rgGen1", scope="program", keine scope-id (generisch)

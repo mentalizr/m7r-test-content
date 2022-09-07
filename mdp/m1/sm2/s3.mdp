@@ -10,3 +10,15 @@
 @textarea-group[id="myId2" rows="5" scope="program" readonly="true"]
     textarea mit id="myId2", scope="program", keine scope-id (generisch)
     
+@input-group[id="igGen1" inputtype="text" scope="program" readonly="true"]
+    input (Freitext) mit id="igGen1", scope="program", keine scope-id (generisch)
+        
+@input-group[id="igGen2" inputtype="text" scope="program"]
+    input (Freitext) mit id="igGen2", scope="program", keine scope-id (generisch)
+    
+@radio-group[id="rgGen1" scope="program" readonly="true" name="myRadioGroupGen1" "erster Knopf" "zweiter Knopf" "dritter Knopf"]
+    radio buttons mit id="rgGen1", scope="program", keine scope-id (generisch)
+
+@radio-group[id="rgGen2" scope="program" readonly="true" name="myRadioGroupGen2" "erster Knopf" "zweiter Knopf" "dritter Knopf"]
+    radio buttons mit id="rgGen2", scope="program", keine scope-id (generisch)
+ 
